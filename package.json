@@ -1,0 +1,30 @@
+{
+  "name": "hapi-github-auth",
+  "version": "1.0.0",
+  "description": "GitHub Authentication for Hapi.js (v17+)",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maixiaojie/hapi-github-auth.git"
+  },
+  "keywords": [
+    "Hapi.js",
+    "GitHub",
+    "Auth",
+    "Plugin"
+  ],
+  "author": "maixiaojie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maixiaojie/hapi-github-auth/issues"
+  },
+  "homepage": "https://github.com/maixiaojie/hapi-github-auth#readme"
+}
