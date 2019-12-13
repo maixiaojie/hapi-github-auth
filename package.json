@@ -31,7 +31,6 @@
     "@hapi/wreck": "^16.0.1"
   },
   "devDependencies": {
-    "env2": "^2.2.2",
     "hapi": "^18.1.0"
   }
 }
