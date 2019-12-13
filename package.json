@@ -26,5 +26,12 @@
   "bugs": {
     "url": "https://github.com/maixiaojie/hapi-github-auth/issues"
   },
-  "homepage": "https://github.com/maixiaojie/hapi-github-auth#readme"
+  "homepage": "https://github.com/maixiaojie/hapi-github-auth#readme",
+  "dependencies": {
+    "@hapi/wreck": "^16.0.1"
+  },
+  "devDependencies": {
+    "env2": "^2.2.2",
+    "hapi": "^18.1.0"
+  }
 }
